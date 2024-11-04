@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_style">
+    <sys_ui_style action="DELETE">
+        <alt/>
+        <element>priority</element>
+        <name>x_1550958_app_incident</name>
+        <style>red</style>
+        <sys_class_name>sys_ui_style</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-22 05:22:26</sys_created_on>
+        <sys_id>94013b0fc3111210a83db8e1b40131f1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1550958_app_incident</sys_name>
+        <sys_package display_value="App" source="x_1550958_app">c8762eddc3515210a83db8e1b4013163</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="App">c8762eddc3515210a83db8e1b4013163</sys_scope>
+        <sys_update_name>sys_ui_style_94013b0fc3111210a83db8e1b40131f1</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-22 05:22:26</sys_updated_on>
+        <themed_style/>
+        <value/>
+    </sys_ui_style>
+    <sys_translated_text action="DELETE" query="documentkey=94013b0fc3111210a83db8e1b40131f1"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="App">c8762eddc3515210a83db8e1b4013163</application>
+        <file_path/>
+        <instance_id>42e900a2db8e4ad437d72a59139619e6</instance_id>
+        <instance_name>dev267635</instance_name>
+        <name>sys_ui_style_94013b0fc3111210a83db8e1b40131f1</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_style"><sys_ui_style action="INSERT_OR_UPDATE"><alt/><element>priority</element><name>x_1550958_app_incident</name><style>red</style><sys_class_name>sys_ui_style</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-10-22 05:22:26</sys_created_on><sys_id>94013b0fc3111210a83db8e1b40131f1</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_1550958_app_incident</sys_name><sys_package display_value="App" source="x_1550958_app">c8762eddc3515210a83db8e1b4013163</sys_package><sys_policy/><sys_scope display_value="App">c8762eddc3515210a83db8e1b4013163</sys_scope><sys_update_name>sys_ui_style_94013b0fc3111210a83db8e1b40131f1</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-10-22 05:22:26</sys_updated_on><themed_style/><value/></sys_ui_style><sys_translated_text action="delete_multiple" query="documentkey=94013b0fc3111210a83db8e1b40131f1"/></record_update>]]></payload>
+        <payload_hash>1571138173</payload_hash>
+        <record_name>x_1550958_app_incident</record_name>
+        <reverted_from/>
+        <source>08762a91c3915210a83db8e1b40131f4</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-22 05:22:26</sys_created_on>
+        <sys_id>54633bc3c3511210a83db8e1b40131ab</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>192b2ad2e170000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-22 05:22:26</sys_updated_on>
+        <type>Style</type>
+        <update_guid>d4633bc3a8511210ce04f8d167d9a5aa</update_guid>
+        <update_guid_history>d4633bc3a8511210ce04f8d167d9a5aa:1571138173</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-22 05:36:03</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_style">sys_ui_style</sys_db_object>
+        <sys_id>22bda272ef444139a80adc57aacccda9</sys_id>
+        <sys_metadata>94013b0fc3111210a83db8e1b40131f1</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1550958_app_incident</sys_name>
+        <sys_package display_value="App" source="x_1550958_app">c8762eddc3515210a83db8e1b4013163</sys_package>
+        <sys_parent display_value="incident">f1c62615c3915210a83db8e1b40131cc</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="App">c8762eddc3515210a83db8e1b4013163</sys_scope>
+        <sys_scope_delete display_value="">34b08631f8cf4bca9042181aacfe6dd1</sys_scope_delete>
+        <sys_update_name>sys_ui_style_94013b0fc3111210a83db8e1b40131f1</sys_update_name>
+        <sys_update_version display_value="sys_ui_style_94013b0fc3111210a83db8e1b40131f1">54633bc3c3511210a83db8e1b40131ab</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-22 05:36:03</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

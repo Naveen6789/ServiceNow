@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="d388cc6bc3a11a10a83db8e1b4013199" extends="sys_import_set_row" label="Asset rec" max_length="40" name="x_1550958_app_asset_rec" type="collection">
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Display name" label="Display name" max_length="40" name="u_display_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=State" label="State" max_length="40" name="u_state" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Company" label="Company" max_length="40" name="u_company" type="string"/>
+    </element>
+</database>

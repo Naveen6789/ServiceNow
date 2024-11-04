@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="cxs_res_context_config_prop">
+    <cxs_res_context_config_prop action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <choices/>
+        <cxs_res_context_config display_value="catalog">cc653b36c35d5210a83db8e1b4013188</cxs_res_context_config>
+        <default_value/>
+        <description>Restricts searches to the named catalog. The value set below must be the title of the catalog, example: Technical Catalog</description>
+        <id>catalog_sr.catalog_name</id>
+        <name>Catalog Name</name>
+        <sys_class_name>cxs_res_context_config_prop</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-21 10:52:40</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>08653b36c35d5210a83db8e1b401318b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Catalog Name</sys_name>
+        <sys_package display_value="App" source="x_1550958_app">c8762eddc3515210a83db8e1b4013163</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="App">c8762eddc3515210a83db8e1b4013163</sys_scope>
+        <sys_update_name>cxs_res_context_config_prop_08653b36c35d5210a83db8e1b401318b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-21 10:52:40</sys_updated_on>
+        <type>string</type>
+        <value/>
+    </cxs_res_context_config_prop>
+</record_update>

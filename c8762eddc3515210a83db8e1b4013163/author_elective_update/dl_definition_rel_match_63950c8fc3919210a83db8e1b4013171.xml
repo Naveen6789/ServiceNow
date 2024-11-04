@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="dl_definition_rel_match">
+    <dl_definition_rel_match action="DELETE">
+        <dl_definition display_value="Priority look">4bd4088bc3919210a83db8e1b4013177</dl_definition>
+        <exact_match>false</exact_match>
+        <matcher_table>x_1550958_app_priority_look</matcher_table>
+        <matcher_table_field>urgency</matcher_table_field>
+        <source_table>x_1550958_app_priority_look</source_table>
+        <source_table_field>urgency</source_table_field>
+        <sys_class_name>dl_definition_rel_match</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-21 12:03:50</sys_created_on>
+        <sys_id>63950c8fc3919210a83db8e1b4013171</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>urgency</sys_name>
+        <sys_package display_value="App" source="x_1550958_app">c8762eddc3515210a83db8e1b4013163</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="App">c8762eddc3515210a83db8e1b4013163</sys_scope>
+        <sys_update_name>dl_definition_rel_match_63950c8fc3919210a83db8e1b4013171</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-21 12:03:50</sys_updated_on>
+    </dl_definition_rel_match>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="App">c8762eddc3515210a83db8e1b4013163</application>
+        <file_path/>
+        <instance_id>42e900a2db8e4ad437d72a59139619e6</instance_id>
+        <instance_name>dev267635</instance_name>
+        <name>dl_definition_rel_match_63950c8fc3919210a83db8e1b4013171</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="dl_definition_rel_match"><dl_definition_rel_match action="INSERT_OR_UPDATE"><dl_definition display_value="Priority look">4bd4088bc3919210a83db8e1b4013177</dl_definition><exact_match>false</exact_match><matcher_table>x_1550958_app_priority_look</matcher_table><matcher_table_field>urgency</matcher_table_field><source_table>x_1550958_app_priority_look</source_table><source_table_field>urgency</source_table_field><sys_class_name>dl_definition_rel_match</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-10-21 12:03:50</sys_created_on><sys_id>63950c8fc3919210a83db8e1b4013171</sys_id><sys_mod_count>0</sys_mod_count><sys_name>urgency</sys_name><sys_package display_value="App" source="x_1550958_app">c8762eddc3515210a83db8e1b4013163</sys_package><sys_policy/><sys_scope display_value="App">c8762eddc3515210a83db8e1b4013163</sys_scope><sys_update_name>dl_definition_rel_match_63950c8fc3919210a83db8e1b4013171</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-10-21 12:03:50</sys_updated_on></dl_definition_rel_match></record_update>]]></payload>
+        <payload_hash>-1753206502</payload_hash>
+        <record_name>urgency</record_name>
+        <reverted_from/>
+        <source>08762a91c3915210a83db8e1b40131f4</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-21 12:03:50</sys_created_on>
+        <sys_id>6aa54443c3d19210a83db8e1b40131c5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>192aef64ed60000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-21 12:03:50</sys_updated_on>
+        <type>Matcher Field Definitions</type>
+        <update_guid>e6a5000f82919210fae4a1babac4f88d</update_guid>
+        <update_guid_history>e6a5000f82919210fae4a1babac4f88d:-1753206502</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="urgency">c260584bc3959210a83db8e1b4013141</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-21 12:50:46</sys_created_on>
+        <sys_db_object display_value="" name="dl_definition_rel_match">dl_definition_rel_match</sys_db_object>
+        <sys_id>6bdfcd3a7d1f4a6898ffa8b411822790</sys_id>
+        <sys_metadata>63950c8fc3919210a83db8e1b4013171</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>urgency</sys_name>
+        <sys_package display_value="App" source="x_1550958_app">c8762eddc3515210a83db8e1b4013163</sys_package>
+        <sys_parent display_value="Priority look">4bd4088bc3919210a83db8e1b4013177</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="App">c8762eddc3515210a83db8e1b4013163</sys_scope>
+        <sys_scope_delete display_value="">34b08631f8cf4bca9042181aacfe6dd1</sys_scope_delete>
+        <sys_update_name>dl_definition_rel_match_63950c8fc3919210a83db8e1b4013171</sys_update_name>
+        <sys_update_version display_value="dl_definition_rel_match_63950c8fc3919210a83db8e1b4013171">6aa54443c3d19210a83db8e1b40131c5</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-21 12:50:46</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

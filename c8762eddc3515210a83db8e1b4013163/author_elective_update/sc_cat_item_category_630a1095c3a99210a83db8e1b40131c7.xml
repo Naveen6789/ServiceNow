@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category">
+    <sc_cat_item_category action="DELETE">
+        <sc_cat_item display_value="New Asset Request">8699dc51c3a99210a83db8e1b401319f</sc_cat_item>
+        <sc_category display_value="Peripherals">2c0b59874f7b4200086eeed18110c71f</sc_category>
+        <sys_class_name>sc_cat_item_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-28 13:19:16</sys_created_on>
+        <sys_id>630a1095c3a99210a83db8e1b40131c7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Peripherals.New Asset Request</sys_name>
+        <sys_package display_value="App" source="x_1550958_app">c8762eddc3515210a83db8e1b4013163</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="App">c8762eddc3515210a83db8e1b4013163</sys_scope>
+        <sys_update_name>sc_cat_item_category_630a1095c3a99210a83db8e1b40131c7</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-28 13:19:16</sys_updated_on>
+    </sc_cat_item_category>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="App">c8762eddc3515210a83db8e1b4013163</application>
+        <file_path/>
+        <instance_id>42e900a2db8e4ad437d72a59139619e6</instance_id>
+        <instance_name>dev267635</instance_name>
+        <name>sc_cat_item_category_630a1095c3a99210a83db8e1b40131c7</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category"><sc_cat_item_category action="INSERT_OR_UPDATE"><sc_cat_item display_value="New Asset Request">8699dc51c3a99210a83db8e1b401319f</sc_cat_item><sc_category display_value="Peripherals">2c0b59874f7b4200086eeed18110c71f</sc_category><sys_class_name>sc_cat_item_category</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-10-28 13:19:16</sys_created_on><sys_id>630a1095c3a99210a83db8e1b40131c7</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Peripherals.New Asset Request</sys_name><sys_package display_value="App" source="x_1550958_app">c8762eddc3515210a83db8e1b4013163</sys_package><sys_policy/><sys_scope display_value="App">c8762eddc3515210a83db8e1b4013163</sys_scope><sys_update_name>sc_cat_item_category_630a1095c3a99210a83db8e1b40131c7</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-10-28 13:19:16</sys_updated_on></sc_cat_item_category></record_update>]]></payload>
+        <payload_hash>1132678256</payload_hash>
+        <record_name>Peripherals.New Asset Request</record_name>
+        <reverted_from/>
+        <source>08762a91c3915210a83db8e1b40131f4</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-28 13:19:16</sys_created_on>
+        <sys_id>ab0a1095c3a99210a83db8e1b40131cb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>192d347e27d0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-28 13:19:16</sys_updated_on>
+        <type>Catalog Item Category</type>
+        <update_guid>af0a10954ca9921065e5f0f9b8d0e5ca</update_guid>
+        <update_guid_history>af0a10954ca9921065e5f0f9b8d0e5ca:1132678256</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Peripherals.New Asset Request">d5110591c3e5d210a83db8e1b40131f4</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-28 16:09:46</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_category">sc_cat_item_category</sys_db_object>
+        <sys_id>4d51685063274d80b9fc1560c1ae2400</sys_id>
+        <sys_metadata>630a1095c3a99210a83db8e1b40131c7</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Peripherals.New Asset Request</sys_name>
+        <sys_package display_value="App" source="x_1550958_app">c8762eddc3515210a83db8e1b4013163</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="App">c8762eddc3515210a83db8e1b4013163</sys_scope>
+        <sys_scope_delete display_value="">34b08631f8cf4bca9042181aacfe6dd1</sys_scope_delete>
+        <sys_update_name>sc_cat_item_category_630a1095c3a99210a83db8e1b40131c7</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_category_630a1095c3a99210a83db8e1b40131c7">ab0a1095c3a99210a83db8e1b40131cb</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-28 16:09:46</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="question_choice">
+    <question_choice action="INSERT_OR_UPDATE">
+        <inactive>false</inactive>
+        <order>100</order>
+        <published_ref/>
+        <question display_value="Zone">3ef13f33c3d99a10a83db8e1b40131e8</question>
+        <sys_class_name>question_choice</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-24 13:13:57</sys_created_on>
+        <sys_id>5752bb73c3d99a10a83db8e1b40131af</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Jaipur</sys_name>
+        <sys_package display_value="App" source="x_1550958_app">c8762eddc3515210a83db8e1b4013163</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="App">c8762eddc3515210a83db8e1b4013163</sys_scope>
+        <sys_update_name>question_choice_5752bb73c3d99a10a83db8e1b40131af</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-24 13:13:57</sys_updated_on>
+        <text>Jaipur</text>
+        <value>jaipur</value>
+    </question_choice>
+    <fx_price action="delete_multiple" query="id=5752bb73c3d99a10a83db8e1b40131af"/>
+</record_update>

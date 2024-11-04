@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="cxs_context_config">
+    <cxs_context_config action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <cxs_searcher_config display_value="Knowledge and catalog">0a3bb504eb53210070a9666cd206fef1</cxs_searcher_config>
+        <default_config>false</default_config>
+        <default_searcher_resource>all</default_searcher_resource>
+        <name>Releated Search Results</name>
+        <search_on_tab>true</search_on_tab>
+        <searcher_text>Default Sources</searcher_text>
+        <short_description>Releated Search Results</short_description>
+        <sys_class_name>cxs_context_config</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-21 10:52:40</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>154573fec31d5210a83db8e1b4013182</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Releated Search Results</sys_name>
+        <sys_package display_value="App" source="x_1550958_app">c8762eddc3515210a83db8e1b4013163</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="App">c8762eddc3515210a83db8e1b4013163</sys_scope>
+        <sys_update_name>cxs_context_config_154573fec31d5210a83db8e1b4013182</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-21 10:52:40</sys_updated_on>
+        <wildcard_search_active>false</wildcard_search_active>
+    </cxs_context_config>
+    <sys_translated_text action="delete_multiple" query="documentkey=154573fec31d5210a83db8e1b4013182"/>
+</record_update>

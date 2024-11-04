@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_dictionary action="DELETE" element="attached_knowledge" table="x_1550958_app_incident">
+        <active>true</active>
+        <array>false</array>
+        <attributes>edge_encryption_enabled=true</attributes>
+        <audit>false</audit>
+        <calculation/>
+        <choice>0</choice>
+        <choice_field/>
+        <choice_table/>
+        <column_label>Attached Knowledge</column_label>
+        <comments/>
+        <create_roles/>
+        <default_value/>
+        <defaultsort/>
+        <delete_roles/>
+        <dependent/>
+        <dependent_on_field/>
+        <display>false</display>
+        <dynamic_creation>false</dynamic_creation>
+        <dynamic_creation_script/>
+        <dynamic_default_value/>
+        <dynamic_ref_qual/>
+        <element>attached_knowledge</element>
+        <element_reference>false</element_reference>
+        <foreign_database/>
+        <formula/>
+        <function_definition/>
+        <function_field>false</function_field>
+        <internal_type display_value="String">string</internal_type>
+        <mandatory>false</mandatory>
+        <max_length>40</max_length>
+        <name>x_1550958_app_incident</name>
+        <next_element/>
+        <primary>false</primary>
+        <read_only>false</read_only>
+        <read_roles/>
+        <reference/>
+        <reference_cascade_rule/>
+        <reference_floats>false</reference_floats>
+        <reference_key/>
+        <reference_qual/>
+        <reference_qual_condition/>
+        <reference_type/>
+        <spell_check>false</spell_check>
+        <staged>false</staged>
+        <sys_class_name>sys_dictionary</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-17 05:36:58</sys_created_on>
+        <sys_id>50c60e69c35dd210a83db8e1b401315d</sys_id>
+        <sys_name>Attached Knowledge</sys_name>
+        <sys_package display_value="App" source="x_1550958_app">c8762eddc3515210a83db8e1b4013163</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="App">c8762eddc3515210a83db8e1b4013163</sys_scope>
+        <sys_update_name>sys_dictionary_x_1550958_app_incident_attached_knowledge</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-17 05:36:58</sys_updated_on>
+        <table_reference>false</table_reference>
+        <text_index>false</text_index>
+        <unique>false</unique>
+        <use_dependent_field>false</use_dependent_field>
+        <use_dynamic_default>false</use_dynamic_default>
+        <use_reference_qualifier>simple</use_reference_qualifier>
+        <virtual>false</virtual>
+        <virtual_type>script</virtual_type>
+        <widget/>
+        <write_roles/>
+        <xml_view>false</xml_view>
+    </sys_dictionary>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="App">c8762eddc3515210a83db8e1b4013163</application>
+        <file_path/>
+        <instance_id>42e900a2db8e4ad437d72a59139619e6</instance_id>
+        <instance_name>dev267635</instance_name>
+        <name>sys_dictionary_x_1550958_app_incident_attached_knowledge</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_dictionary action="INSERT_OR_UPDATE" element="attached_knowledge" table="x_1550958_app_incident"><active>true</active><array>false</array><attributes>edge_encryption_enabled=true</attributes><audit>false</audit><calculation/><choice>0</choice><choice_field/><choice_table/><column_label>Attached Knowledge</column_label><comments/><create_roles/><default_value/><defaultsort/><delete_roles/><dependent/><dependent_on_field/><display>false</display><dynamic_creation>false</dynamic_creation><dynamic_creation_script/><dynamic_default_value/><dynamic_ref_qual/><element>attached_knowledge</element><element_reference>false</element_reference><foreign_database/><formula/><function_definition/><function_field>false</function_field><internal_type display_value="String">string</internal_type><mandatory>false</mandatory><max_length>40</max_length><name>x_1550958_app_incident</name><next_element/><primary>false</primary><read_only>false</read_only><read_roles/><reference/><reference_cascade_rule/><reference_floats>false</reference_floats><reference_key/><reference_qual/><reference_qual_condition/><reference_type/><spell_check>false</spell_check><staged>false</staged><sys_class_name>sys_dictionary</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-10-17 05:36:58</sys_created_on><sys_id>50c60e69c35dd210a83db8e1b401315d</sys_id><sys_name>Attached Knowledge</sys_name><sys_package display_value="App" source="x_1550958_app">c8762eddc3515210a83db8e1b4013163</sys_package><sys_policy/><sys_scope display_value="App">c8762eddc3515210a83db8e1b4013163</sys_scope><sys_update_name>sys_dictionary_x_1550958_app_incident_attached_knowledge</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-10-17 05:36:58</sys_updated_on><table_reference>false</table_reference><text_index>false</text_index><unique>false</unique><use_dependent_field>false</use_dependent_field><use_dynamic_default>false</use_dynamic_default><use_reference_qualifier>simple</use_reference_qualifier><virtual>false</virtual><virtual_type>script</virtual_type><widget/><write_roles/><xml_view>false</xml_view></sys_dictionary></record_update>]]></payload>
+        <payload_hash>1655197246</payload_hash>
+        <record_name>incident.Attached Knowledge</record_name>
+        <reverted_from/>
+        <source>08762a91c3915210a83db8e1b40131f4</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-17 05:36:58</sys_created_on>
+        <sys_id>14c60e69c35dd210a83db8e1b401318d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19298faaf130000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-17 05:36:58</sys_updated_on>
+        <type>Dictionary</type>
+        <update_guid>58c60e69045dd21089ba0b411fcaa38c</update_guid>
+        <update_guid_history>58c60e69045dd21089ba0b411fcaa38c:1655197246</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-17 05:54:50</sys_created_on>
+        <sys_db_object display_value="" name="sys_dictionary">sys_dictionary</sys_db_object>
+        <sys_id>3b2ecb239cf542c59ea95cb64f37d509</sys_id>
+        <sys_metadata>50c60e69c35dd210a83db8e1b401315d</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Attached Knowledge</sys_name>
+        <sys_package display_value="App" source="x_1550958_app">c8762eddc3515210a83db8e1b4013163</sys_package>
+        <sys_parent display_value="incident">f1c62615c3915210a83db8e1b40131cc</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="App">c8762eddc3515210a83db8e1b4013163</sys_scope>
+        <sys_scope_delete display_value="">34b08631f8cf4bca9042181aacfe6dd1</sys_scope_delete>
+        <sys_update_name>sys_dictionary_x_1550958_app_incident_attached_knowledge</sys_update_name>
+        <sys_update_version display_value="sys_dictionary_x_1550958_app_incident_attached_knowledge">14c60e69c35dd210a83db8e1b401318d</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-17 05:54:50</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

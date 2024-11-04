@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="x_1550958_app_priority_look">
+    <x_1550958_app_priority_look action="DELETE">
+        <active>true</active>
+        <impact>low</impact>
+        <order>100</order>
+        <priority>medium</priority>
+        <sys_class_name>x_1550958_app_priority_look</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-21 12:10:51</sys_created_on>
+        <sys_id>05274887c3d19210a83db8e1b4013169</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>100</sys_name>
+        <sys_package display_value="App" source="x_1550958_app">c8762eddc3515210a83db8e1b4013163</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="App">c8762eddc3515210a83db8e1b4013163</sys_scope>
+        <sys_update_name>x_1550958_app_priority_look_05274887c3d19210a83db8e1b4013169</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-21 12:10:51</sys_updated_on>
+        <urgency>high</urgency>
+    </x_1550958_app_priority_look>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="App">c8762eddc3515210a83db8e1b4013163</application>
+        <file_path/>
+        <instance_id>42e900a2db8e4ad437d72a59139619e6</instance_id>
+        <instance_name>dev267635</instance_name>
+        <name>x_1550958_app_priority_look_05274887c3d19210a83db8e1b4013169</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="x_1550958_app_priority_look"><x_1550958_app_priority_look action="INSERT_OR_UPDATE"><active>true</active><impact>low</impact><order>100</order><priority>medium</priority><sys_class_name>x_1550958_app_priority_look</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-10-21 12:10:51</sys_created_on><sys_id>05274887c3d19210a83db8e1b4013169</sys_id><sys_mod_count>0</sys_mod_count><sys_name>100</sys_name><sys_package display_value="App" source="x_1550958_app">c8762eddc3515210a83db8e1b4013163</sys_package><sys_policy/><sys_scope display_value="App">c8762eddc3515210a83db8e1b4013163</sys_scope><sys_update_name>x_1550958_app_priority_look_05274887c3d19210a83db8e1b4013169</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-10-21 12:10:51</sys_updated_on><urgency>high</urgency></x_1550958_app_priority_look></record_update>]]></payload>
+        <payload_hash>-1593720367</payload_hash>
+        <record_name>100</record_name>
+        <reverted_from/>
+        <source>08762a91c3915210a83db8e1b40131f4</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-21 12:10:51</sys_created_on>
+        <sys_id>1147c0c7c3d19210a83db8e1b401311e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>192aefcbb800000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-21 12:10:51</sys_updated_on>
+        <type>Priority look</type>
+        <update_guid>1547c0c7c5d19210ab1121280d52e41d</update_guid>
+        <update_guid_history>1547c0c7c5d19210ab1121280d52e41d:-1593720367</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="100">e8cb548fc3599210a83db8e1b401317d</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-21 13:40:23</sys_created_on>
+        <sys_db_object display_value="" name="x_1550958_app_priority_look">x_1550958_app_priority_look</sys_db_object>
+        <sys_id>23f9b4d8870d472abd7e160ed3d572a4</sys_id>
+        <sys_metadata>05274887c3d19210a83db8e1b4013169</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>100</sys_name>
+        <sys_package display_value="App" source="x_1550958_app">c8762eddc3515210a83db8e1b4013163</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="App">c8762eddc3515210a83db8e1b4013163</sys_scope>
+        <sys_scope_delete display_value="">34b08631f8cf4bca9042181aacfe6dd1</sys_scope_delete>
+        <sys_update_name>x_1550958_app_priority_look_05274887c3d19210a83db8e1b4013169</sys_update_name>
+        <sys_update_version display_value="x_1550958_app_priority_look_05274887c3d19210a83db8e1b4013169">1147c0c7c3d19210a83db8e1b401311e</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-21 13:40:23</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

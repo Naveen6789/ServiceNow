@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="dl_u_priority">
+    <dl_u_priority action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <impact>3</impact>
+        <order>100</order>
+        <priority>4</priority>
+        <sys_class_name>dl_u_priority</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-21 11:35:21</sys_created_on>
+        <sys_id>512f3fb2c3119210a83db8e1b401311d</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>100</sys_name>
+        <sys_package display_value="App" source="x_1550958_app">c8762eddc3515210a83db8e1b4013163</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="App">c8762eddc3515210a83db8e1b4013163</sys_scope>
+        <sys_update_name>dl_u_priority_512f3fb2c3119210a83db8e1b401311d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-21 11:35:39</sys_updated_on>
+        <urgency>2</urgency>
+    </dl_u_priority>
+</record_update>

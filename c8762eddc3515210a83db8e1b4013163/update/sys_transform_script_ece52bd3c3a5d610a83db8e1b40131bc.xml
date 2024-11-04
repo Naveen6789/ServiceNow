@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_transform_script">
+    <sys_transform_script action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <map display_value="Crick Players">06a56f93c3a5d610a83db8e1b401310b</map>
+        <order>100</order>
+        <script><![CDATA[(function runTransformScript(source, map, log, target /*undefined onStart*/ ) {
+
+	// Add your code here
+	target.email=source.user_id+'@gmail.com';
+	target.update();
+
+})(source, map, log, target);]]></script>
+        <sys_class_name>sys_transform_script</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-11-04 09:19:43</sys_created_on>
+        <sys_id>ece52bd3c3a5d610a83db8e1b40131bc</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>onAfter</sys_name>
+        <sys_package display_value="App" source="x_1550958_app">c8762eddc3515210a83db8e1b4013163</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="App">c8762eddc3515210a83db8e1b4013163</sys_scope>
+        <sys_update_name>sys_transform_script_ece52bd3c3a5d610a83db8e1b40131bc</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-11-04 09:49:53</sys_updated_on>
+        <when>onAfter</when>
+    </sys_transform_script>
+</record_update>

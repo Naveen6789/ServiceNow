@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="item_option_new_set">
+    <item_option_new_set action="DELETE">
+        <create_roles/>
+        <description/>
+        <display_title>false</display_title>
+        <internal_name>expense_date</internal_name>
+        <layout>normal</layout>
+        <name/>
+        <order>100</order>
+        <read_roles/>
+        <set_attributes/>
+        <sys_class_name>item_option_new_set</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-24 09:19:00</sys_created_on>
+        <sys_id>f49c7ebfc3155a10a83db8e1b4013178</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Expense Date</sys_name>
+        <sys_package display_value="App" source="x_1550958_app">c8762eddc3515210a83db8e1b4013163</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="App">c8762eddc3515210a83db8e1b4013163</sys_scope>
+        <sys_update_name>item_option_new_set_f49c7ebfc3155a10a83db8e1b4013178</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-24 09:19:00</sys_updated_on>
+        <title>Expense Date</title>
+        <type>one_to_many</type>
+        <version/>
+        <write_roles/>
+    </item_option_new_set>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="App">c8762eddc3515210a83db8e1b4013163</application>
+        <file_path/>
+        <instance_id>42e900a2db8e4ad437d72a59139619e6</instance_id>
+        <instance_name>dev267635</instance_name>
+        <name>item_option_new_set_f49c7ebfc3155a10a83db8e1b4013178</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="item_option_new_set"><item_option_new_set action="INSERT_OR_UPDATE"><create_roles/><description/><display_title>false</display_title><internal_name>expense_date</internal_name><layout>normal</layout><name/><order>100</order><read_roles/><set_attributes/><sys_class_name>item_option_new_set</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-10-24 09:19:00</sys_created_on><sys_id>f49c7ebfc3155a10a83db8e1b4013178</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Expense Date</sys_name><sys_package display_value="App" source="x_1550958_app">c8762eddc3515210a83db8e1b4013163</sys_package><sys_policy/><sys_scope display_value="App">c8762eddc3515210a83db8e1b4013163</sys_scope><sys_update_name>item_option_new_set_f49c7ebfc3155a10a83db8e1b4013178</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-10-24 09:19:00</sys_updated_on><title>Expense Date</title><type>one_to_many</type><version/><write_roles/></item_option_new_set></record_update>]]></payload>
+        <payload_hash>356915294</payload_hash>
+        <record_name>Expense Date</record_name>
+        <reverted_from/>
+        <source>08762a91c3915210a83db8e1b40131f4</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-24 09:19:00</sys_created_on>
+        <sys_id>d1bc7ebfc3155a10a83db8e1b4013193</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>192bdd27b5d0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-24 09:19:00</sys_updated_on>
+        <type>Variable Set</type>
+        <update_guid>d5bc7ebf60155a10d64fa86c5aecb092</update_guid>
+        <update_guid_history>d5bc7ebf60155a10d64fa86c5aecb092:356915294</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Expense Date">0bfef2b3c3555a10a83db8e1b40131fd</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-24 09:28:58</sys_created_on>
+        <sys_db_object display_value="" name="item_option_new_set">item_option_new_set</sys_db_object>
+        <sys_id>e2e645199ecc4764bcfd1bfe10a164e1</sys_id>
+        <sys_metadata>f49c7ebfc3155a10a83db8e1b4013178</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Expense Date</sys_name>
+        <sys_package display_value="App" source="x_1550958_app">c8762eddc3515210a83db8e1b4013163</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="App">c8762eddc3515210a83db8e1b4013163</sys_scope>
+        <sys_scope_delete display_value="">34b08631f8cf4bca9042181aacfe6dd1</sys_scope_delete>
+        <sys_update_name>item_option_new_set_f49c7ebfc3155a10a83db8e1b4013178</sys_update_name>
+        <sys_update_version display_value="item_option_new_set_f49c7ebfc3155a10a83db8e1b4013178">d1bc7ebfc3155a10a83db8e1b4013193</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-24 09:28:58</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

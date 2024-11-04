@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="cxs_res_context_config_prop">
+    <cxs_res_context_config_prop action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <choices/>
+        <cxs_res_context_config display_value="knowledge">335537b2c31d5210a83db8e1b40131b6</cxs_res_context_config>
+        <default_value>false</default_value>
+        <description>Excludes pinned articles from the result set. Should only be set to 'true' if pinned articles are included in this Searcher.</description>
+        <id>knowledge_sr.exclude_pinned</id>
+        <name>Exclude Pinned Articles</name>
+        <sys_class_name>cxs_res_context_config_prop</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-21 10:52:40</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>88653b36c35d5210a83db8e1b4013186</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Exclude Pinned Articles</sys_name>
+        <sys_package display_value="App" source="x_1550958_app">c8762eddc3515210a83db8e1b4013163</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="App">c8762eddc3515210a83db8e1b4013163</sys_scope>
+        <sys_update_name>cxs_res_context_config_prop_88653b36c35d5210a83db8e1b4013186</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-21 10:52:40</sys_updated_on>
+        <type>boolean</type>
+        <value>false</value>
+    </cxs_res_context_config_prop>
+</record_update>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="dl_definition_rel_match">
+    <dl_definition_rel_match action="DELETE">
+        <dl_definition display_value="Assidned">f6c618d7c35d1210a83db8e1b401311a</dl_definition>
+        <exact_match>false</exact_match>
+        <matcher_table>x_1550958_app_assigned_look_up</matcher_table>
+        <matcher_table_field>configuration_item</matcher_table_field>
+        <source_table>x_1550958_app_incident</source_table>
+        <source_table_field>configuration_item</source_table_field>
+        <sys_class_name>dl_definition_rel_match</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-22 08:40:41</sys_created_on>
+        <sys_id>90c028dfc3115210a83db8e1b4013114</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>configuration_item</sys_name>
+        <sys_package display_value="App" source="x_1550958_app">c8762eddc3515210a83db8e1b4013163</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="App">c8762eddc3515210a83db8e1b4013163</sys_scope>
+        <sys_update_name>dl_definition_rel_match_90c028dfc3115210a83db8e1b4013114</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-22 08:40:41</sys_updated_on>
+    </dl_definition_rel_match>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="App">c8762eddc3515210a83db8e1b4013163</application>
+        <file_path/>
+        <instance_id>42e900a2db8e4ad437d72a59139619e6</instance_id>
+        <instance_name>dev267635</instance_name>
+        <name>dl_definition_rel_match_90c028dfc3115210a83db8e1b4013114</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="dl_definition_rel_match"><dl_definition_rel_match action="INSERT_OR_UPDATE"><dl_definition display_value="Assidned">f6c618d7c35d1210a83db8e1b401311a</dl_definition><exact_match>false</exact_match><matcher_table>x_1550958_app_assigned_look_up</matcher_table><matcher_table_field>configuration_item</matcher_table_field><source_table>x_1550958_app_incident</source_table><source_table_field>configuration_item</source_table_field><sys_class_name>dl_definition_rel_match</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-10-22 08:40:41</sys_created_on><sys_id>90c028dfc3115210a83db8e1b4013114</sys_id><sys_mod_count>0</sys_mod_count><sys_name>configuration_item</sys_name><sys_package display_value="App" source="x_1550958_app">c8762eddc3515210a83db8e1b4013163</sys_package><sys_policy/><sys_scope display_value="App">c8762eddc3515210a83db8e1b4013163</sys_scope><sys_update_name>dl_definition_rel_match_90c028dfc3115210a83db8e1b4013114</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-10-22 08:40:41</sys_updated_on></dl_definition_rel_match></record_update>]]></payload>
+        <payload_hash>-990450445</payload_hash>
+        <record_name>configuration_item</record_name>
+        <reverted_from/>
+        <source>08762a91c3915210a83db8e1b40131f4</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-22 08:40:41</sys_created_on>
+        <sys_id>58c028dfc3115210a83db8e1b4013116</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>192b362ae000000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-22 08:40:41</sys_updated_on>
+        <type>Matcher Field Definitions</type>
+        <update_guid>5cc028df7c11521092e075fd697b2615</update_guid>
+        <update_guid_history>5cc028df7c11521092e075fd697b2615:-990450445</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="configuration_item">1f01e0d3c3515210a83db8e1b40131c0</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-22 08:41:59</sys_created_on>
+        <sys_db_object display_value="" name="dl_definition_rel_match">dl_definition_rel_match</sys_db_object>
+        <sys_id>036bfca70ccc463b8139ba16394ec781</sys_id>
+        <sys_metadata>90c028dfc3115210a83db8e1b4013114</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>configuration_item</sys_name>
+        <sys_package display_value="App" source="x_1550958_app">c8762eddc3515210a83db8e1b4013163</sys_package>
+        <sys_parent display_value="Assidned">f6c618d7c35d1210a83db8e1b401311a</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="App">c8762eddc3515210a83db8e1b4013163</sys_scope>
+        <sys_scope_delete display_value="">34b08631f8cf4bca9042181aacfe6dd1</sys_scope_delete>
+        <sys_update_name>dl_definition_rel_match_90c028dfc3115210a83db8e1b4013114</sys_update_name>
+        <sys_update_version display_value="dl_definition_rel_match_90c028dfc3115210a83db8e1b4013114">58c028dfc3115210a83db8e1b4013116</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-22 08:41:59</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

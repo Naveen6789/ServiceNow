@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element attributes="update_synch=true" db_object_id="9e4218dbc3d91210a83db8e1b40131a6" extends="dl_matcher" label="Assigned Look up" max_length="40" name="x_1550958_app_assigned_look_up" type="collection">
+        <element label="Assignment Group" max_length="32" name="assignment_group" reference="sys_user_group" type="reference"/>
+        <element label="Assigned To" max_length="32" name="assigned_to" reference="sys_user" type="reference"/>
+        <element choice="1" label="Category" max_length="40" name="category" type="choice">
+            <choice/>
+        </element>
+        <element choice="1" label="Subcategory" max_length="40" name="subcategory" type="choice">
+            <choice/>
+        </element>
+        <element label="Configuration Item" max_length="32" name="configuration_item" reference="cmdb_ci" type="reference"/>
+        <element label="Location" max_length="32" name="location" reference="cmn_location" type="reference"/>
+        <index name="index">
+            <element name="assigned_to"/>
+        </index>
+        <index name="index2">
+            <element name="assignment_group"/>
+        </index>
+        <index name="index3">
+            <element name="configuration_item"/>
+        </index>
+        <index name="index4">
+            <element name="location"/>
+        </index>
+    </element>
+</database>

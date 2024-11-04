@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="item_option_new_set">
+    <item_option_new_set action="DELETE">
+        <create_roles/>
+        <description/>
+        <display_title>false</display_title>
+        <internal_name>general_information</internal_name>
+        <layout>normal</layout>
+        <name/>
+        <order>100</order>
+        <read_roles/>
+        <set_attributes/>
+        <sys_class_name>item_option_new_set</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-28 13:22:24</sys_created_on>
+        <sys_id>679a14d9c3a99210a83db8e1b40131d6</sys_id>
+        <sys_mod_count>15</sys_mod_count>
+        <sys_name>General Information</sys_name>
+        <sys_package display_value="App" source="x_1550958_app">c8762eddc3515210a83db8e1b4013163</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="App">c8762eddc3515210a83db8e1b4013163</sys_scope>
+        <sys_update_name>item_option_new_set_679a14d9c3a99210a83db8e1b40131d6</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2024-10-28 13:30:44</sys_updated_on>
+        <title>General Information</title>
+        <type>one_to_many</type>
+        <version>15</version>
+        <write_roles/>
+    </item_option_new_set>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="App">c8762eddc3515210a83db8e1b4013163</application>
+        <file_path/>
+        <instance_id>42e900a2db8e4ad437d72a59139619e6</instance_id>
+        <instance_name>dev267635</instance_name>
+        <name>item_option_new_set_679a14d9c3a99210a83db8e1b40131d6</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="item_option_new_set"><item_option_new_set action="INSERT_OR_UPDATE"><create_roles/><description/><display_title>false</display_title><internal_name>general_information</internal_name><layout>normal</layout><name/><order>100</order><read_roles/><set_attributes/><sys_class_name>item_option_new_set</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-10-28 13:22:24</sys_created_on><sys_id>679a14d9c3a99210a83db8e1b40131d6</sys_id><sys_mod_count>15</sys_mod_count><sys_name>General Information</sys_name><sys_package display_value="App" source="x_1550958_app">c8762eddc3515210a83db8e1b4013163</sys_package><sys_policy/><sys_scope display_value="App">c8762eddc3515210a83db8e1b4013163</sys_scope><sys_update_name>item_option_new_set_679a14d9c3a99210a83db8e1b40131d6</sys_update_name><sys_updated_by>system</sys_updated_by><sys_updated_on>2024-10-28 13:30:44</sys_updated_on><title>General Information</title><type>one_to_many</type><version>15</version><write_roles/></item_option_new_set></record_update>]]></payload>
+        <payload_hash>1504487458</payload_hash>
+        <record_name>General Information</record_name>
+        <reverted_from/>
+        <source>08762a91c3915210a83db8e1b40131f4</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2024-10-28 13:30:44</sys_created_on>
+        <sys_id>e7ac9899c3e99210a83db8e1b401310d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>192d35261830000001</sys_recorded_at>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2024-10-28 13:30:44</sys_updated_on>
+        <type>Variable Set</type>
+        <update_guid>6fac9899f8e99210662c197f41acd50c</update_guid>
+        <update_guid_history>6fac9899f8e99210662c197f41acd50c:1504487458,85ac9cd971e99210d6f9544e255739fa:1713185761,ca9c985d3ee992103fb6de72eab20ee6:1921884064,468cd4d5e9e9921036884875e9a6edb8:2130582367,3e7c1c1d15e992107b4c81b264722121:-1955686626,446c1cd9d3e99210490ffae21dfebd19:-1746988323,001c5c19e1e992105127a36fe69672a3:-1534013447,03fb5495e6e99210b838352268af4510:-1325315144,e7dbdc95f1e99210ecf290b08a8e9956:-1116616841,bbab145504e99210f449f2ec389e6620:-907918538,e5ab9c156fe992100cd2d9d3130bb294:-699220235,a59b5415a1e992102da9339cd2d3dbb3:-490521932,d68bd0d1b5e9921041e9ad73a9350b70:-281823629,5f6b5c9123e99210fd85cba49179b94e:-73125326,0e1b1cdd71a9921006a204fea0f48aa9:135572977,21ca90d9f9a99210ab3579b78a69509d:-1673880973</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="General Information">454e305dc365d210a83db8e1b401314a</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2024-10-28 15:57:29</sys_created_on>
+        <sys_db_object display_value="" name="item_option_new_set">item_option_new_set</sys_db_object>
+        <sys_id>059ee31b64364038802757f4e8dcf040</sys_id>
+        <sys_metadata>679a14d9c3a99210a83db8e1b40131d6</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>General Information</sys_name>
+        <sys_package display_value="App" source="x_1550958_app">c8762eddc3515210a83db8e1b4013163</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="App">c8762eddc3515210a83db8e1b4013163</sys_scope>
+        <sys_scope_delete display_value="">34b08631f8cf4bca9042181aacfe6dd1</sys_scope_delete>
+        <sys_update_name>item_option_new_set_679a14d9c3a99210a83db8e1b40131d6</sys_update_name>
+        <sys_update_version display_value="item_option_new_set_679a14d9c3a99210a83db8e1b40131d6">e7ac9899c3e99210a83db8e1b401310d</sys_update_version>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2024-10-28 15:57:29</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
